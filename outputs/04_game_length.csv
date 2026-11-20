@@ -1,0 +1,10 @@
+group_type,category,games,avg_plies,avg_full_moves
+All games,All,19113,60.5,30.3
+Rating band,1200-1599,9268,57.2,28.6
+Rating band,1600-1999,7315,64.9,32.4
+Rating band,2000+,1420,67.9,33.9
+Rating band,Under 1200,1110,49.7,24.8
+Ending,Checkmate,5974,65.6,32.8
+Ending,Draw,888,87.2,43.6
+Ending,Out of time,1556,71.3,35.6
+Ending,Resignation,10695,53.9,27.0

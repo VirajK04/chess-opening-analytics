@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw and derived data (download games.csv from Kaggle, see README)
+data/

@@ -1,0 +1,17 @@
+rating_band,ending,games,pct_within_band
+1200-1599,Resignation,4776,51.53
+1200-1599,Checkmate,3465,37.39
+1200-1599,Out of time,671,7.24
+1200-1599,Draw,356,3.84
+1600-1999,Resignation,4434,60.62
+1600-1999,Checkmate,1864,25.48
+1600-1999,Out of time,650,8.89
+1600-1999,Draw,367,5.02
+2000+,Resignation,979,68.94
+2000+,Checkmate,200,14.08
+2000+,Out of time,132,9.3
+2000+,Draw,109,7.68
+Under 1200,Resignation,506,45.59
+Under 1200,Checkmate,445,40.09
+Under 1200,Out of time,103,9.28
+Under 1200,Draw,56,5.05

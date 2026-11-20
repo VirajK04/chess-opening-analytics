@@ -1,0 +1,61 @@
+rating_band,opening_family,games,vs_baseline_pts,ci_low,ci_high,clear_signal
+All ratings,Alekhine Defense,182,0.59,-5.73,6.92,False
+All ratings,Bishop's Opening,310,5.56,0.73,10.39,True
+All ratings,Caro-Kann Defense,561,0.54,-3.16,4.23,False
+All ratings,Center Game,156,-8.11,-15.29,-0.94,True
+All ratings,English Opening,699,4.27,0.75,7.78,True
+All ratings,Four Knights Game,344,4.61,-0.23,9.45,False
+All ratings,French Defense,1363,-0.8,-3.22,1.63,False
+All ratings,Horwitz Defense,208,-1.33,-7.46,4.81,False
+All ratings,Hungarian Opening,161,-5.84,-12.52,0.85,False
+All ratings,Indian Game,312,-5.8,-10.39,-1.22,True
+All ratings,Italian Game,926,-1.92,-4.88,1.04,False
+All ratings,King's Indian Defense,193,-0.94,-7.5,5.62,False
+All ratings,King's Knight Opening,175,3.07,-4.28,10.41,False
+All ratings,King's Pawn Game,871,-0.55,-3.6,2.49,False
+All ratings,Modern Defense,219,-5.1,-10.93,0.74,False
+All ratings,Nimzo-Indian Defense,152,2.26,-5.06,9.58,False
+All ratings,Nimzo-Larsen Attack,159,0.76,-6.46,7.99,False
+All ratings,Nimzowitsch Defense,217,8.58,2.34,14.82,True
+All ratings,Owen Defense,152,-8.75,-15.89,-1.6,True
+All ratings,Philidor Defense,650,3.29,-0.17,6.74,False
+All ratings,Pirc Defense,283,3.49,-1.5,8.48,False
+All ratings,Queen's Gambit Accepted,242,1.08,-4.71,6.86,False
+All ratings,Queen's Gambit Declined,377,0.43,-4.2,5.06,False
+All ratings,Queen's Gambit Refused,244,3.64,-2.24,9.51,False
+All ratings,Queen's Pawn Game,1172,-2.19,-4.77,0.38,False
+All ratings,Russian Game,242,3.07,-2.54,8.68,False
+All ratings,Ruy Lopez,812,1.15,-2.01,4.31,False
+All ratings,Scandinavian Defense,688,-0.54,-3.94,2.87,False
+All ratings,Scotch Game,441,1.41,-2.94,5.77,False
+All ratings,Sicilian Defense,2526,-0.37,-2.17,1.42,False
+All ratings,Slav Defense,228,-7.06,-12.93,-1.19,True
+All ratings,Van't Kruijs Opening,342,-6.84,-11.16,-2.52,True
+All ratings,Zukertort Opening,298,2.67,-2.34,7.69,False
+1200-1599,Bishop's Opening,189,6.29,0.3,12.29,True
+1200-1599,Caro-Kann Defense,232,0.31,-5.55,6.17,False
+1200-1599,English Opening,349,2.68,-2.38,7.73,False
+1200-1599,Four Knights Game,219,6.71,0.65,12.78,True
+1200-1599,French Defense,584,-2.54,-6.22,1.14,False
+1200-1599,Italian Game,483,-2.7,-6.76,1.36,False
+1200-1599,King's Pawn Game,631,-0.23,-3.87,3.42,False
+1200-1599,Philidor Defense,400,2.27,-2.19,6.72,False
+1200-1599,Queen's Pawn Game,570,-0.55,-4.32,3.21,False
+1200-1599,Ruy Lopez,377,4.48,-0.18,9.15,False
+1200-1599,Scandinavian Defense,366,-0.42,-5.2,4.35,False
+1200-1599,Scotch Game,252,-1.57,-7.33,4.19,False
+1200-1599,Sicilian Defense,991,0.19,-2.66,3.04,False
+1200-1599,Van't Kruijs Opening,228,-7.52,-12.98,-2.05,True
+1600-1999,Caro-Kann Defense,256,2.4,-3.07,7.87,False
+1600-1999,English Opening,254,5.44,-0.51,11.4,False
+1600-1999,French Defense,595,0.34,-3.41,4.08,False
+1600-1999,Indian Game,163,-6.71,-13.02,-0.39,True
+1600-1999,Italian Game,370,0.89,-3.84,5.62,False
+1600-1999,Philidor Defense,190,3.95,-2.32,10.21,False
+1600-1999,Queen's Gambit Declined,204,1.6,-4.71,7.9,False
+1600-1999,Queen's Pawn Game,446,-2.5,-6.69,1.68,False
+1600-1999,Ruy Lopez,336,-3.16,-8.05,1.73,False
+1600-1999,Scandinavian Defense,200,-1.24,-7.42,4.94,False
+1600-1999,Scotch Game,156,4.19,-3.32,11.7,False
+1600-1999,Sicilian Defense,1193,-0.64,-3.3,2.02,False
+2000+,Sicilian Defense,279,2.58,-2.38,7.55,False
